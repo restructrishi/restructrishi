@@ -127,17 +127,13 @@ specialization:
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilkr29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=restructrishi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilkr29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=restructrishi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anilkr29&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=restructrishi&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
 
 </div>
-
----
-
-
 
 ---
 
