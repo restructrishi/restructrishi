@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-I'm **Anil Kumar** – a passionate technologist who bridges the gap between elegant code and robust cloud infrastructure. With a keen eye for design and a deep understanding of cloud architecture, I craft solutions that are not just functional, but exceptional.
+I'm **Rishabh Nigam** – a passionate technologist who bridges the gap between elegant code and robust cloud infrastructure. With a keen eye for design and a deep understanding of cloud architecture, I craft solutions that are not just functional, but exceptional.
 
 ```yaml
 current_focus:
@@ -228,7 +228,7 @@ const currentGoals = {
 
 <div align="center">
   
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anilkr29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=restructrishi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9)
 
 </div>
 
@@ -247,9 +247,6 @@ const currentGoals = {
 
 ---
 
-## 💭 Philosophy
-
-> "Code is poetry written in logic. Cloud is the canvas where this poetry comes to life."
 
 <div align="center">
   
