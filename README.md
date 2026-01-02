@@ -22,35 +22,23 @@ Constantly improving through hands-on labs and real projects
 📍 Open to internships, fresher roles & cloud opportunities
 📧 Email: yourmail@gmail.com
 
-🧠 Skills & Technologies
-☁️ Cloud & DevOps
+## 🛠️ Tech Stack
 
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
 
+### 🧰 Dev Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
-
-
-
-
-
-
-
-💻 Development Stack
-
-
-
-
-
-
-
-
-
-
-🧰 Tools & Platforms
-
-
-
-
-
+### 💻 Programming
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
 🚀 Featured Projects
 🔹 Cloud Infrastructure & Automation
