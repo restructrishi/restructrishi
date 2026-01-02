@@ -137,26 +137,7 @@ specialization:
 
 ---
 
-## 🎓 Certifications & Learning Path
 
-```mermaid
-graph LR
-    A[Web Development] --> B[Cloud Computing]
-    B --> C[DevOps Practices]
-    C --> D[Solution Architecture]
-    D --> E[Enterprise Scale]
-    
-    style A fill:#6366F1
-    style B fill:#8B5CF6
-    style C fill:#A855F7
-    style D fill:#C084FC
-    style E fill:#E9D5FF
-```
-
-- 🎯 **AWS Solutions Architect** - In Progress
-- 📚 **Microsoft Azure Fundamentals** - Completed
-- 🔧 **Docker & Kubernetes** - Certified
-- 💻 **Full Stack Development** - Professional
 
 ---
 
@@ -241,7 +222,7 @@ const currentGoals = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-nigam-68b964241)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/restructrishi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabh.ngm11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+
 
 </div>
 
